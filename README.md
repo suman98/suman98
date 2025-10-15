@@ -75,6 +75,72 @@ To work responsibly in a challenging environment in IT, giving my full potential
 
 ---
 
+## 🔧 Skill Ratings
+
+<div align="center">
+
+<table>
+  <tr>
+    <th align="left">Skill</th>
+    <th align="center">Badge</th>
+    <th align="center">Proficiency</th>
+    <th align="center">Score</th>
+  </tr>
+
+  <tr>
+    <td>PHP (Laravel)</td>
+    <td align="center"><img src="https://img.shields.io/badge/Laravel-Expert-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></td>
+    <td align="center">🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜</td>
+    <td align="center">9/10</td>
+  </tr>
+
+  <tr>
+    <td>JavaScript</td>
+    <td align="center"><img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
+    <td align="center">🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜</td>
+    <td align="center">9/10</td>
+  </tr>
+
+  <tr>
+    <td>TypeScript</td>
+    <td align="center"><img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></td>
+    <td align="center">🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜</td>
+    <td align="center">8/10</td>
+  </tr>
+
+  <tr>
+    <td>Next (React)</td>
+    <td align="center"><img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=next.js&logoColor=white" /></td>
+    <td align="center">🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜</td>
+    <td align="center">8/10</td>
+  </tr>
+
+  <tr>
+    <td>Nuxt (Vue)</td>
+    <td align="center"><img src="https://img.shields.io/badge/Nuxt-Advanced-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" /></td>
+    <td align="center">🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜</td>
+    <td align="center">8/10</td>
+  </tr>
+
+  <tr>
+    <td>Python (Django)</td>
+    <td align="center"><img src="https://img.shields.io/badge/Django-Intermediate-092E20?style=for-the-badge&logo=django&logoColor=white" /></td>
+    <td align="center">🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜</td>
+    <td align="center">7/10</td>
+  </tr>
+
+  <tr>
+    <td>Node (Express/Adonis)</td>
+    <td align="center"><img src="https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=node.js&logoColor=white" /></td>
+    <td align="center">🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜</td>
+    <td align="center">7/10</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 💼 Professional Experience
 
 - Nepse Alpha Pvt. Ltd. — Full Stack Developer (React, React Native, Vue, Laravel, Python)
@@ -138,7 +204,17 @@ To work responsibly in a challenging environment in IT, giving my full potential
 
 ---
 
+## 📊 GitHub Stats
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=suman98&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suman98&theme=tokyonight" height="150" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman98&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
 
 ## 📫 Contact
 - Email: talktosumanthapa@gmail.com
