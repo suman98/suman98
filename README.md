@@ -141,37 +141,89 @@ To work responsibly in a challenging environment in IT, giving my full potential
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience Timeline
 
-- Nepse Alpha Pvt. Ltd. — Full Stack Developer (React, React Native, Vue, Laravel, Python)
-  - Built stock market web apps using Vue.js, Laravel API, Inertia.js; PostgreSQL design and optimization
-  - Integrated TradingView charts; custom indicators, TA algorithms, pattern recognition
-  - Web scraping, big data; ML-based stock price forecasting
-  - Admin panel with Filament; UI libraries: Element UI, Vuetify
+<!-- Simple vertical timeline using emojis and badges for a clean GitHub-friendly look -->
+<p>
+  <img src="https://img.shields.io/badge/—-Nepse%20Alpha-000000?style=flat-square" />
+  <strong>Nepse Alpha Pvt. Ltd.</strong> — Full Stack (React, RN, Vue, Laravel, Python)  
+  ⟶ Stock market portals • TradingView integration • PostgreSQL • ML forecasting
+</p>
+<blockquote>
+  <ul>
+    <li>Developed Vue.js + Laravel + Inertia.js apps for Nepal Stock Market.</li>
+    <li>Designed and optimized PostgreSQL schemas and queries.</li>
+    <li>Implemented TA algorithms, custom indicators, and chart pattern recognition.</li>
+    <li>Built admin panel with Filament; used Element UI and Vuetify.</li>
+    <li>Performed web scraping and big data processing; ML-based price forecasting.</li>
+  </ul>
+</blockquote>
+<p>
+  <img src="https://img.shields.io/badge/2025-AUG-8A2BE2?style=flat-square" />
+  <strong>The Pond (Lititu Corp.)</strong> — Next.js Developer  
+  ⟶ TypeScript + SSR • Java API integration via Swagger/OpenAPI • Figma → Next.js
+</p>
+<blockquote>
+  <ul>
+    <li>Built SSR pages and app logic with Next.js and TypeScript.</li>
+    <li>Integrated Java-based APIs using Swagger/OpenAPI specs.</li>
+    <li>Turned high-fidelity Figma designs into production-ready components.</li>
+  </ul>
+</blockquote>
 
-- The Pond (Lititu Corp.) — Next.js Developer (Aug 2025)
-  - TypeScript + SSR; API integration with Java (Swagger/OpenAPI)
-  - Converted Figma designs to production-ready Next.js application
+<p>
+  <img src="https://img.shields.io/badge/2023-SEP-1E90FF?style=flat-square" />
+  <strong>Workzone1</strong> — Frontend Developer  
+  ⟶ Electron desktop app • Time tracking CMS • GraphQL APIs
+</p>
+<blockquote>
+  <ul>
+    <li>Built cross-platform time tracking app with Electron.</li>
+    <li>Implemented a CMS layer with accounting features.</li>
+    <li>Consumed and optimized GraphQL endpoints.</li>
+  </ul>
+</blockquote>
 
-- Workzone1 — Frontend Developer (Sep 2023)
-  - Time tracking desktop app with Electron; CMS with accounting
-  - Worked with GraphQL APIs
+<p>
+  <img src="https://img.shields.io/badge/2021-DEC-32CD32?style=flat-square" />
+  <strong>Global English Campus (GEC)</strong> — Laravel/Vue/React Native  
+  ⟶ Vue CLI • Apollo GraphQL • Agile (ClickUp) • AI services for content
+</p>
+<blockquote>
+  <ul>
+    <li>Developed responsive UI with Laravel + Vue stack.</li>
+    <li>Used Apollo GraphQL for stateful data flows.</li>
+    <li>Built workspace management and mobile features using React Native.</li>
+  </ul>
+</blockquote>
 
-- Global English Campus (GEC) — Laravel/Vue/React Native (Dec 2021)
-  - UI & Web Dev with Laravel & Vue CLI; Agile via ClickUp
-  - Used AI services for interactive content; Apollo GraphQL
-  - Built workspace management; mobile-friendly app with React Native
+<p>
+  <img src="https://img.shields.io/badge/2020-APR-FFA500?style=flat-square" />
+  <strong>Gamenic Nalamiz Tech Pvt. Ltd</strong> — Laravel & Vue  
+  ⟶ Remote collaboration • Real-time chat • AWS logs • Docker
+</p>
+<blockquote>
+  <ul>
+    <li>Delivered real-time chat with Vue/Vuex and Laravel backend.</li>
+    <li>Analyzed AWS logs for performance and reliability.</li>
+    <li>Worked within Dockerized environments; practiced unit testing.</li>
+  </ul>
+</blockquote>
 
-- Gamenic Nalamiz Tech Pvt. Ltd — Laravel & Vue (Apr 2020)
-  - Remote collaboration with international team; GitHub + Agile
-  - Real-time chat system; AWS logs analysis; Docker environment
-  - Vue/Vuex/Element UI; Laravel Voyager; Unit testing
+<p>
+  <img src="https://img.shields.io/badge/2018-APR-FF6347?style=flat-square" />
+  <strong>Mero Network Pvt. Ltd.</strong> — Laravel/WordPress  
+  ⟶ CRM/ERP modules • SABRE SOAP • REST APIs • MySQL schema design
+</p>
+<blockquote>
+  <ul>
+    <li>Built CRM/ERP for travel, restaurant, inventory, and project ops.</li>
+    <li>Integrated SABRE SOAP for online flight bookings.</li>
+    <li>Designed REST APIs and upgraded Laravel versions; authored MySQL schemas.</li>
+  </ul>
+</blockquote>
 
-- Mero Network Pvt. Ltd. — Laravel/WordPress (Apr 2018)
-  - CRM/ERP for travel, restaurant, inventory, projects
-  - Implemented SABRE SOAP for Online Flight Booking
-  - Designed REST APIs; Laravel upgrades; MySQL schema design
-  - Modules: Live Chat, DMS, PMS, and more with Laravel, jQuery, Vue.js, Axios
+
 
 ---
 
@@ -204,17 +256,6 @@ To work responsibly in a challenging environment in IT, giving my full potential
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=suman98&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suman98&theme=tokyonight" height="150" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman98&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
 
 ## 📫 Contact
 - Email: talktosumanthapa@gmail.com
