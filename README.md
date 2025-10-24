@@ -229,9 +229,9 @@ To work responsibly in a challenging environment in IT, giving my full potential
 
 ## 🎓 Education
 - Master of Data Science and Computational Intelligence — Coventry University
-- BSc. CSIT — Ambition College, Tribhuvan University (76.5%)
-- +2 Science — Southwestern State College (62.4%)
-- S.L.C — Academy Boarding High School (77.75%)
+- BSc. CSIT — Ambition College, Tribhuvan University 
+- +2 Science — Southwestern State College 
+- S.L.C — Academy Boarding High School 
 
 ---
 
