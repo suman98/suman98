@@ -2,16 +2,26 @@
   GitHub Profile README for Suman Thapa
   Feel free to copy and tweak—designed to be clean, informative, and attractive.
 -->
+<!-- Hero Section with Animated Typing -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=Suman%20Thapa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Laravel%20%7C%20Python%20%7C%20Vue%20%7C%20React%20%7C%20React%20Native%20%7C%20Next&descSize=16&descAlignY=51" />
 
 <h1 align="center">👋 Hi, I'm Suman Thapa</h1>
 <p align="center">
-  <strong>Full Stack Developer</strong> • Laravel • Nuxt/Next • React Native • AI/ML Integrations • Node • Django
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0096FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Integrator;Laravel+%7C+Nuxt%2FNext+%7C+React+Native;Node+%7C+Django+%7C+Vue.js+%7C+Python;Passionate+about+building+robust+products" alt="Typing SVG" />
 </p>
 <p align="center">
   📍 Baluwatar, Kathmandu, Nepal • ✉️ <a href="mailto:talktosumanthapa@gmail.com">talktosumanthapa@gmail.com</a> • 📱 +977 9841323412 • 🌐 <a href="https://suman98.github.io" target="_blank">suman98.github.io</a>
 </p>
 
 ---
+
+<h2 align="center">🙋‍♂️ About Me</h2>
+<p align="center">
+  Over 8+ years specializing in web & mobile app dev, AI, billing, CRM/ERP, and stock portals with ML.<br/>
+  Love building products end-to-end—architecture, APIs, UI/UX, DevOps, production support.<br/>
+  Collaborating globally, following GitHub/Agile best practices.
+</p>
+
 
 ## 🚀 About Me
 Over 8+ years of experience specializing in web and mobile application development, AI services, billing systems, CRM/ERP integration, and stock market portals with machine learning. I love building robust products end-to-end—architecture, APIs, UI/UX, DevOps, and production support—while collaborating with international teams and following GitHub/Agile best practices.
@@ -246,6 +256,13 @@ To work responsibly in a challenging environment in IT, giving my full potential
 
 - BestPaani
   - Blogging platform for organizations to share posts and company details
+
+- Finaskoool
+  - Personal finance education platform
+  - Stack: AdonisJS, ReactJS
+  - [finaskool.com](https://finaskool.com/)
+
+
 
 ---
 
