@@ -7,7 +7,11 @@
 
 <h1 align="center">👋 Hi, I'm Suman Thapa</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0096FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Integrator;Laravel+%7C+Nuxt%2FNext+%7C+React+Native;Node+%7C+Django+%7C+Vue.js+%7C+Python;Passionate +building+robust+products" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=sanjok1988&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0096FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Integrator;Laravel+%7C+Nuxt%2FNext+%7C+React+Native;Node+%7C+Django+%7C+Vue.js+%7C+Python;Passionate+building+robust+products" alt="Typing SVG" />
 </p>
 <p align="center">
   📍 Baluwatar, Kathmandu, Nepal • ✉️ <a href="mailto:talktosumanthapa@gmail.com">talktosumanthapa@gmail.com</a> • 📱 +977 9841323412 • 🌐 <a href="https://suman98.github.io" target="_blank">suman98.github.io</a>
